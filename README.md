@@ -26,7 +26,9 @@ Ultimately, sentiment analysis is a powerful tool for anyone looking to gain dee
 ## Final Results
 ![sa](https://user-images.githubusercontent.com/95311883/236663758-0e5bcb3a-7414-4cbc-8893-9dd0bb3554e7.png)
 The sentiment analysis API allows businesses to quickly and accurately predict the sentiment of customer comments as positive or negative. By analyzing the data, businesses can gain valuable insights into their customers' opinions and improve their products or services accordingly. The API generates a pie chart to visualize the data, making it easy for businesses to understand overall customer satisfaction.
-
+### Our Accuracy
+- Accuracy: 75.5%
+- AUC: 0.8386
 ## Dataset
 Source: [Data](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus/blob/master/MSAC.arff)
 
@@ -42,8 +44,6 @@ Source: [Data](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus/blob/ma
 `Validation`: Once the model has been fine-tuned, it is evaluated on a validation set to ensure that it is accurately predicting sentiment.
 
 `Testing`: Finally, the model is tested on a hold-out test set to evaluate its performance on new, unseen data.
-## Our Accuracy
-- Accuracy: 75.5%
-- AUC: 0.8386
+
 
 
