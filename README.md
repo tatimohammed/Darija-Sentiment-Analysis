@@ -1,4 +1,19 @@
 # Darija Sentiment Analysis
+## Repo Tree
+```bash
+.
+├── Darija-Sentiment-Analysis-Notebook.ipynb
+├── README.md
+├── sa.png
+└── Sentiment-analysis-website
+    ├── index.html
+    ├── scripts.js
+    ├── style.css
+    ├── test.py
+    └── test.txt
+
+1 directory, 8 files
+```
 ## Use Case
 Sentiment analysis is an incredibly powerful tool in the world of natural language processing. By analyzing the subjective information found within text data, sentiment analysis allows us to identify and categorize opinions as positive, negative.
 
@@ -31,18 +46,4 @@ Source: [Data](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus/blob/ma
 - Accuracy: 75.5%
 - AUC: 0.8386
 
-## Repo Tree
-```bash
-.
-├── Darija-Sentiment-Analysis-Notebook.ipynb
-├── README.md
-├── sa.png
-└── Sentiment-analysis-website
-    ├── index.html
-    ├── scripts.js
-    ├── style.css
-    ├── test.py
-    └── test.txt
 
-1 directory, 8 files
-```
