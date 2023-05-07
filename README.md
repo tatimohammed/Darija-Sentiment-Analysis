@@ -33,5 +33,16 @@ Source: [Data](https://github.com/ososs/Arabic-Sentiment-Analysis-corpus/blob/ma
 
 ## Repo Tree
 ```bash
+.
+├── Darija-Sentiment-Analysis-Notebook.ipynb
+├── README.md
+├── sa.png
+└── Sentiment-analysis-website
+    ├── index.html
+    ├── scripts.js
+    ├── style.css
+    ├── test.py
+    └── test.txt
 
+1 directory, 8 files
 ```
