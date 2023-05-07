@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header h1{
+    text-align: center;
+    padding-top: 2%;
+    letter-spacing: 1px;
+    padding-bottom: 2%;
+    margin-bottom: 0;
+    background-color: black;
+    color: white;
+}
+
+.header span{
+    color: greenyellow;
+}
+
+.uploader #file{
+    display: none;
+}
+
+.uploader #submit-btn{
+    display: none;
+}
+
+.uploader{
+    text-align: center;
+}
+.uploader span{
+    font-size: 15px;
+    position: absolute;
+    left: 22.5%;
+}
+
+.uploader .upload {
+    font-size: 200px;
+    line-height: 0;
+    margin-top: 25%;
+    cursor: pointer;
+    transition: 0.75s;
+}
+.uploader .upload:hover{
+    color: green;
+} 
+.uploader .submit-arrow{
+    cursor: pointer;
+    margin-top: 5%;
+    font-size: 50px;
+    margin-bottom: 30%;
+}
+.uploader .submit-arrow:hover{
+    color: green;
+} 
+
+#chart{
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#chart h2{
+    text-align: center;
+    margin-top: 30%;
+}
